@@ -1,4 +1,4 @@
-# Day 01 - Javascript Drum Kit ::piano::
+# Day 01 - Javascript Drum Kit ::drum::
 Challenge day 01 Javascript Drum Kit
 
 ## Description
